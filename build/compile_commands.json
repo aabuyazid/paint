@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/arkan/Documents/paint/build/src",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/Test.dir/test.cpp.o -c /home/arkan/Documents/paint/src/test.cpp",
+  "file": "/home/arkan/Documents/paint/src/test.cpp"
+}
+]

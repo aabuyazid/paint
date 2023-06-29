@@ -1,0 +1,6 @@
+/home/arkan/Documents/paint/build/CMakeFiles/copy-compile-commands.dir
+/home/arkan/Documents/paint/build/CMakeFiles/edit_cache.dir
+/home/arkan/Documents/paint/build/CMakeFiles/rebuild_cache.dir
+/home/arkan/Documents/paint/build/src/CMakeFiles/Test.dir
+/home/arkan/Documents/paint/build/src/CMakeFiles/edit_cache.dir
+/home/arkan/Documents/paint/build/src/CMakeFiles/rebuild_cache.dir
